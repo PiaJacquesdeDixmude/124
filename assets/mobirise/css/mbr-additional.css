@@ -1858,10 +1858,15 @@ body {
   color: #f7ed4a;
 }
 .cid-qQy5WyfJHN {
+  padding-top: 90px;
+  padding-bottom: 90px;
   background-image: url("../../../assets/images/hi-115202.gif");
 }
 .cid-qQy5WyfJHN .mbr-text,
 .cid-qQy5WyfJHN .mbr-section-btn {
+  color: #fff000;
+}
+.cid-qQy5WyfJHN H3 {
   color: #f7ed4a;
 }
 .cid-qQy8LmVVkR {
@@ -1876,14 +1881,32 @@ body {
 }
 .cid-qQy9u0fDeT .mbr-text,
 .cid-qQy9u0fDeT .mbr-section-btn {
-  color: #f7ed4a;
+  color: #fff000;
+}
+.cid-qQy9u0fDeT H1 {
+  color: #fff000;
+}
+.cid-qQy9u0fDeT H3 {
+  color: #fff000;
 }
 .cid-qQyahGBDkQ {
+  padding-top: 90px;
+  padding-bottom: 90px;
   background-color: #000000;
 }
 .cid-qQyahGBDkQ .mbr-text,
 .cid-qQyahGBDkQ .mbr-section-btn {
   color: #f7ed4a;
+}
+.cid-qQyahGBDkQ H3 {
+  color: #fff000;
+}
+.cid-qQyahGBDkQ .mbr-text,
+.cid-qQyahGBDkQ .mbr-section-btn B {
+  color: #fff000;
+}
+.cid-qQyahGBDkQ H1 {
+  color: #fff000;
 }
 .cid-qQy408a8B6 .navbar {
   padding: .5rem 0;
@@ -2290,7 +2313,7 @@ body {
 }
 .cid-qQyin4PZb7 {
   padding-top: 45px;
-  padding-bottom: 0px;
+  padding-bottom: 30px;
   background-image: url("../../../assets/images/district2-2000x1500.jpg");
 }
 .cid-qQyin4PZb7 H1 {
@@ -2314,7 +2337,7 @@ body {
 }
 .cid-qQykeDJ9ps {
   padding-top: 45px;
-  padding-bottom: 0px;
+  padding-bottom: 30px;
   background-image: url("../../../assets/images/district5-2000x1500.jpg");
 }
 .cid-qQykeDJ9ps H1 {
