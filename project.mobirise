@@ -573,7 +573,7 @@
               "background-color": "@bg-value"
             },
             "H1": {
-              "color": "#f7ed4a"
+              "color": "#fff000"
             }
           },
           "_name": "header2",
@@ -601,7 +601,7 @@
               "color": "#fff000"
             },
             "H3": {
-              "color": "#f7ed4a"
+              "color": "#fff000"
             }
           },
           "_name": "header2",
@@ -626,7 +626,7 @@
               "background-color": "@bg-value"
             },
             ".mbr-text, .mbr-section-btn": {
-              "color": "#f7ed4a"
+              "color": "#fff000"
             }
           },
           "_name": "header2",
